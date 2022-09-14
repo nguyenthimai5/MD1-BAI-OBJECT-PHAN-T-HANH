@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bceb444c-05a9-495b-a7f1-b6184a7b45c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BTH3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyPoint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bthveht.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vehinhtron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTH3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vehinhtron.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663139596867</updated>
       <workItem from="1663139598149" duration="24000" />
-      <workItem from="1663139651572" duration="10144000" />
+      <workItem from="1663139651572" duration="10449000" />
     </task>
     <servers />
   </component>
