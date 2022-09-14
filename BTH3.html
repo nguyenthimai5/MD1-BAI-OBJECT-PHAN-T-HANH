@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="vehinhtron.js"></script>
+</head>
+<canvas id="myPoint" width="650px" height="300px" style="border: 1px solid hotpink"></canvas>
+<body>
+<script>
+  var point=document.getElementById('myPoint')
+  let ctx=point.getContext('2d');
+  ctx.beginPath()
+  ctx.strokeStyle='red'
+  ctx.fillStyle='red'
+  ctx.arc(200,100,50,0,2*Math.PI,true)
+  ctx.fill()
+  ctx.stroke()
+  ctx.closePath()
+
+
+</script>
+</body>
+</html>
